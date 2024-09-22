@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+*/new.txt
+*/new2.txt
+*/output.txt
